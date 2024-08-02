@@ -2,7 +2,7 @@ Hi there, I'm Dylan Oelfose 👋
 - I’m interested in working in Software Developmet, Cyber Security and Data Analytics. 🔭
 
 ## Skills
-- HTML, CSS, Java, C#, C++, Python, SQL 🖥️
+- HTML, CSS, Java, JavaScript, C#, C++, Python, SQL 🖥️
 - Problem Solver 🤔
 - Strong Collaboration 👯
 
