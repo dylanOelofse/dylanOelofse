@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi there, I'm Dylan Oelfose 👋
+- I’m interested in working in Software Developmet, Cyber Security and Data Analytics. 🔭
 
-<!--
-**dylanOelofse/dylanOelofse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills ✏️:
+- HTML, CSS, Java, C#, C++, Python, SQL 🖥️
+- Problem Solver 🤔
+- Strong Collaboration 👯
 
-Here are some ideas to get you started:
+## Education
+- **North West University**: B.Sc in Information Technology 🎓
+- **Jeppe High School for Boys**: Matric NSC 🏫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me
+- [LinkedIn](https:/www.linkedin.com/in/dylanoelofse) 🔗
