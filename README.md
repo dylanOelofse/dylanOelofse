@@ -11,4 +11,4 @@ Hi there, I'm Dylan Oelfose 👋
 - **Jeppe High School for Boys**: Matric NSC 🏫
 
 ## Connect with me
-- [LinkedIn](www.linkedin.com/in/dylanoelofse) 🔗
+- [LinkedIn](https://www.linkedin.com/in/dylanoelofse) 🔗
