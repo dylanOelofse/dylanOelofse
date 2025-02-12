@@ -5,6 +5,7 @@ Hi there, I'm Dylan Oelfose 👋
 - HTML, CSS, Java, JavaScript, C#, C++, Python, SQL 🖥️
 - Problem Solver 🤔
 - Strong Collaboration 👯
+- IDE's: VS, VS Code, SSMS, Code::Blocks📝
 
 ## Education
 - **North West University**: B.Sc in Information Technology 🎓
